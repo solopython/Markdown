@@ -73,10 +73,12 @@ ___粗体＋斜体4___
 ## 链接
 
 #### 行内式
+
 [访问百度](http://www.baidu.com)
 
 带title的链接
-[访问谷歌](http://www.baidu.com "google一下")
+
+[访问谷歌](http://www.google.com "google一下")
 
 #### 参考式
 
